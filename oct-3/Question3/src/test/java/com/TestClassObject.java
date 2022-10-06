@@ -2,6 +2,8 @@ package com;
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
 
+import question3.ClassObject;
+
 public class TestClassObject {
 	@Test
 	public void ClassObject() {
